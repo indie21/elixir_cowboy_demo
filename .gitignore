@@ -1,0 +1,6 @@
+/_build
+mix.lock
+/cover
+/deps
+erl_crash.dump
+*.ez
